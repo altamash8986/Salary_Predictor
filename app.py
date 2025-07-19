@@ -9,7 +9,7 @@ from sklearn.preprocessing import StandardScaler
 from xgboost import XGBRegressor
 
 # ---------------- Load Dataset ----------------
-dataset = pd.read_csv("job_salary_prediction.csv")
+dataset = pd.read_csv("salary_prediction.csv")
 
 # Impute numeric
 imputer = SimpleImputer(strategy="mean")

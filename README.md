@@ -106,9 +106,7 @@ This project aims to build a **regression model** that accurately predicts salar
 
 > You can deploy this project on:
 - [Hugging Face Spaces](https://huggingface.co/spaces)
-- [Render](https://render.com)
-- [Gradio Share Link (local demo)](http://localhost:7860)
-
+  
 ---
 
 ## 🛠️ Installation & Running

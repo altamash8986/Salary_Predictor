@@ -35,7 +35,7 @@ This project aims to build a **regression model** that accurately predicts salar
 
 ---
 
-## ⚙ Tech Stack / Tools
+##  Tech Stack / Tools
 
 - **Language**: Python
 - **Libraries**:
@@ -78,7 +78,7 @@ This project aims to build a **regression model** that accurately predicts salar
 | `MAE`  | Mean Absolute Error                | ~10,400 ₹     |
 | `Accuracy` | Based on R² Score              | **91.80%**    |
 
-### 4. 🖼️ Visualization:
+### 4.  Visualization:
 - **Scatter plot** of `Actual vs Predicted` salary
 - **Red dotted line** shows ideal predictions
 
@@ -86,7 +86,7 @@ This project aims to build a **regression model** that accurately predicts salar
 
 ##  Gradio Interface
 
-### 🎛️ Inputs:
+###  Inputs:
 - Age (Slider: 18–75)
 - Gender (Radio)
 - Education Level (Dropdown)
@@ -109,7 +109,7 @@ This project aims to build a **regression model** that accurately predicts salar
   
 ---
 
-## 🛠️ Installation & Running
+##  Installation & Running
 
 ```bash
 # Step 1: Clone the repository
